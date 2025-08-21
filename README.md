@@ -8,7 +8,7 @@ Menyoo:
 - Place the MenyooStuff in your subprocess folder, which can be found following the path listed in the ZIP.
 
 Scene Director: 
-- Place the Scene Director folder and the SceneDirector.asi file in your plugins folder within your FiveM Application Data
+- Place the Scene Director folder and the SceneDirector files in your plugins folder within your FiveM Application Data
 
 NoCameraRestrictions:
 - Place the NoEditorRestrictions.asi file in your plugins folder within your FiveM Application Data
